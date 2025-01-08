@@ -5,4 +5,4 @@
 
 ---
 ## Resources
-- [Vertical Timeline Component in Svelte]https://github.com/K-Sato1995/svelte-vertical-timeline
+- [Vertical Timeline Component in Svelte](https://github.com/K-Sato1995/svelte-vertical-timeline)
